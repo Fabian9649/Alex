@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Pruebas</title>
+<title>Pragina</title>
 </head>
 <body>
 
